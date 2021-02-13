@@ -84,4 +84,12 @@ body {
     .container {
         width: 100vw;
     }
+
+    .panel h3 {
+        font-size: 20px;
+    }
+
+    .panel p {
+        top: 60px;
+    }
 }
